@@ -137,7 +137,7 @@ document.addEventListener('keydown', function (event) {
         para.innerText = "With all that out of the way,";
     }
     else if (event.key === ' ' && clicks === 29) {
-        changeBackground()
+        document.body.style.background = backgroundChange("#aa282e80", "#e016ce80")
         para.innerText = "HAPPY BIRTHDAY MAHER!! <3";
     }
     else if (event.key === ' ' && clicks === 30) {
@@ -233,7 +233,7 @@ document.addEventListener('keydown', function (event) {
         document.body.style.backgroundImage = `url("pickle1.webp")`
     }
     else if (event.key === ' ' && clicks === 53) {
-        document.body.style.backgroundImage = backgroundChange("#8c238c8b", "#084960d7")
+        changeBackground()
         para.innerText = "No? You’re still here?";
     }
     else if (event.key === ' ' && clicks === 54) {
@@ -249,7 +249,7 @@ document.addEventListener('keydown', function (event) {
         document.body.style.backgroundImage = `url("pickle2.jpg")`
     }
     else if (event.key === ' ' && clicks === 57) {
-        document.body.style.backgroundImage = backgroundChange("#8c238c8b", "#084960d7")
+        changeBackground()
         para.innerText = "You like it? It had mixed vegetables, yummm";
     }
     else if (event.key === ' ' && clicks === 58) {
@@ -261,7 +261,7 @@ document.addEventListener('keydown', function (event) {
         document.body.style.backgroundImage = `url("pickle3.webp")`
     }
     else if (event.key === ' ' && clicks === 60) {
-        document.body.style.backgroundImage = backgroundChange("#8c238c8b", "#084960d7")
+        changeBackground()
         para.innerText = "You're still here? *sigh* Okay, okay… Fine… I will let you see the secrets.";
     }
     else if (event.key === ' ' && clicks === 61) {
@@ -302,7 +302,7 @@ document.addEventListener('keydown', function (event) {
         para.innerText = "under the same moon.";
     }
     else if (event.key === ' ' && clicks === 70) {
-        document.body.style.backgroundImage = backgroundChange("#8c238c8b", "#084960d7")
+        changeBackground()
         document.getElementById("p").style.color = "black"
         para.innerText = "Makes me happy.";
     }
@@ -312,7 +312,7 @@ document.addEventListener('keydown', function (event) {
         para.innerText = "Not only that, but I look at the colors and get amazed by how nature can be so beatiful.";
     }
     else if (event.key === ' ' && clicks === 72) {
-        document.body.style.backgroundImage = backgroundChange("#8c238c8b", "#084960d7")
+        changeBackground()
         document.getElementById("p").style.color = "black"
         para.innerText = "And how simple life can be.";
     }
