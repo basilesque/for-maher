@@ -21,7 +21,6 @@ function gradient() {
 function changeBackground() {
     return document.body.style.background = gradient()
 }
-
 document.addEventListener('keydown', function (event) {
     clicks++
     if (event.key === ' ' && clicks === 1) {
@@ -138,10 +137,12 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 29) {
         document.body.style.background = backgroundChange("#aa282e80", "#e016ce80")
+        document.getElementById("p").style.fontSize = "3em"
         para.innerText = "HAPPY BIRTHDAY MAHER!! <3";
     }
     else if (event.key === ' ' && clicks === 30) {
         changeBackground()
+        document.getElementById("p").style.fontSize = "2em"
         para.innerText = "I hope this new age brings you more personal growth, dreams that come true, happiness and health.";
     }
     else if (event.key === ' ' && clicks === 31) {
@@ -303,7 +304,7 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 70) {
         changeBackground()
-        document.getElementById("p").style.color = "black"
+        document.getElementById("p").style.color = "rgba(50, 25, 15, 0.864)"
         para.innerText = "Makes me happy.";
     }
     else if (event.key === ' ' && clicks === 71) {
@@ -313,7 +314,7 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 72) {
         changeBackground()
-        document.getElementById("p").style.color = "black"
+        document.getElementById("p").style.color = "rgba(50, 25, 15, 0.864)"
         para.innerText = "And how simple life can be.";
     }
     else if (event.key === ' ' && clicks === 73) {

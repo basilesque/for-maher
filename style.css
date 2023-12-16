@@ -14,11 +14,12 @@ body {
 }
 
 p {
-    font-size: 1.6em;
+    font-size: 2em;
     text-shadow: 1px 1px 1px rgba(237, 216, 236, 0.663);
     padding-left: 10px;
     padding-right: 10px;
     font-weight: 600;
+    color: rgba(50, 25, 15, 0.864);
 }
 
 button {
