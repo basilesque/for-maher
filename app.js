@@ -9,14 +9,14 @@ let clicks = 0
 function backgroundChange(color1, color2) {
     return `linear-gradient(to right, ${color1}, ${color2})`
 }
-function randomRGB() {
+function randomRGBA() {
     let redValue = (Math.floor(Math.random() * 256));
     let greenValue = (Math.floor(Math.random() * 256));
     let blueValue = (Math.floor(Math.random() * 256));
     return `rgba(${redValue}, ${greenValue}, ${blueValue}, ${0.50})`
 }
 function gradient() {
-    return `linear-gradient(to right, ${randomRGB()}, ${randomRGB()})`;
+    return `linear-gradient(to right, ${randomRGBA()}, ${randomRGBA()})`;
 }
 function changeBackground() {
     return document.body.style.background = gradient()
