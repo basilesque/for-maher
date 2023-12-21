@@ -133,7 +133,7 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 28) {
         changeBackground()
-        para.innerText = "With all that out of the way,";
+        para.innerText = "With all that out of the way,,,";
     }
     else if (event.key === ' ' && clicks === 29) {
         document.body.style.background = backgroundChange("#aa282e80", "#e016ce80")
@@ -146,88 +146,87 @@ document.addEventListener('keydown', function (event) {
         para.innerText = "I hope this new age brings you more personal growth, dreams that come true, happiness and health.";
     }
     else if (event.key === ' ' && clicks === 31) {
-        changeBackground()
-        para.innerText = "Well, that’s about it for the good wishes and the birthday celebrations.";
+        para.innerText = "Only wish you the best :)";
     }
     else if (event.key === ' ' && clicks === 32) {
         changeBackground()
-        para.innerText = "Please always know that I think and care about you no matter what happens Maher.";
+        para.innerText = "Well, that’s about it for the good wishes and the birthday celebrations.";
     }
     else if (event.key === ' ' && clicks === 33) {
         changeBackground()
-        para.innerText = "I’m here for you. And I will always be.";
+        para.innerText = "Please always know that I think and care about you no matter what happens Maher.";
     }
     else if (event.key === ' ' && clicks === 34) {
         changeBackground()
-        para.innerText = "Hope to talk to you soon.";
+        para.innerText = "I’m here for you. And I will always be.";
     }
     else if (event.key === ' ' && clicks === 35) {
         changeBackground()
-        para.innerText = "- Reyhan.";
+        para.innerText = "Hope to talk to you soon.";
     }
     else if (event.key === ' ' && clicks === 36) {
         changeBackground()
-        para.innerText = ".";
+        para.innerText = "- Reyhan.";
     }
     else if (event.key === ' ' && clicks === 37) {
         changeBackground()
-        para.innerText = "The birthday message is over sir, stop pressing space.";
+        para.innerText = ".";
     }
     else if (event.key === ' ' && clicks === 38) {
         changeBackground()
-        para.innerText = "Uhhh, hello??? I said stop pressing space?? Are these texts not being shown or something?!!";
+        para.innerText = "The birthday message is over sir, stop pressing space.";
     }
     else if (event.key === ' ' && clicks === 39) {
         changeBackground()
-        para.innerText = "Seriously. Go away.";
+        para.innerText = "Uhhh, hello??? I said stop pressing space?? Are these texts not being shown or something?!!";
     }
     else if (event.key === ' ' && clicks === 40) {
         changeBackground()
-        para.innerText = "Why would you keep pressing space, when I said stop!";
+        para.innerText = "Seriously. Go away.";
     }
     else if (event.key === ' ' && clicks === 41) {
         changeBackground()
-        para.innerText = "You don't give up, do you?";
+        para.innerText = "Why would you keep pressing space, when I said stop!";
     }
     else if (event.key === ' ' && clicks === 42) {
         changeBackground()
-        para.innerText = "Oh, I see what’s happening here now.";
+        para.innerText = "You don't give up, do you?";
     }
     else if (event.key === ' ' && clicks === 43) {
         changeBackground()
-        para.innerText = "You’re expecting an easter egg or something?";
+        para.innerText = "Oh, I see what’s happening here now.";
     }
     else if (event.key === ' ' && clicks === 44) {
         changeBackground()
-        para.innerText = "As if I would do that…";
+        para.innerText = "You’re expecting an easter egg or something?";
     }
     else if (event.key === ' ' && clicks === 45) {
         changeBackground()
-        para.innerText = "As if this is a video game…";
+        para.innerText = "As if I would do that…";
     }
     else if (event.key === ' ' && clicks === 46) {
         changeBackground()
-        para.innerText = "As if I would take the time to write the lines and the code for that haha…";
+        para.innerText = "As if this is a video game…";
     }
     else if (event.key === ' ' && clicks === 47) {
         changeBackground()
-        para.innerText = "Imagine…";
+        para.innerText = "As if I would take the time to write the lines and the code for that haha…";
     }
     else if (event.key === ' ' && clicks === 48) {
         changeBackground()
-        para.innerText = "Well, as you see, that proves that it doesn’t exist.";
+        para.innerText = "Imagine…";
     }
     else if (event.key === ' ' && clicks === 49) {
         changeBackground()
-        para.innerText = "So, on your way now!";
+        para.innerText = "Well, as you see, that proves that it doesn’t exist.";
     }
     else if (event.key === ' ' && clicks === 50) {
         changeBackground()
-        para.innerText = "Oh, you're stubborn. Alright, let’s try other methods.";
+        para.innerText = "So, on your way now!";
     }
     else if (event.key === ' ' && clicks === 51) {
         changeBackground()
-        para.innerText = "This will make you close the tab.";
+        para.innerText = "Oh, you're stubborn. Alright, let’s try other methods.";
     }
     else if (event.key === ' ' && clicks === 52) {
         para.innerText = "";
