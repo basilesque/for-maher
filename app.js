@@ -57,15 +57,15 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 9) {
         changeBackground()
-        para.innerText = "(Hope I am not fucking up your sleep right now though.)";
+        para.innerText = "(Hope I am not fucking up your sleep right now though lol)";
     }
     else if (event.key === ' ' && clicks === 10) {
         changeBackground()
-        para.innerText = "Anyway.";
+        para.innerText = "I wanna start by saying how awesome of a person you are.";
     }
     else if (event.key === ' ' && clicks === 11) {
         changeBackground()
-        para.innerText = "I wanna start by saying how awesome of a person you are. It’s literally crazy.";
+        para.innerText = "It’s literally crazy.";
     }
     else if (event.key === ' ' && clicks === 12) {
         changeBackground()
