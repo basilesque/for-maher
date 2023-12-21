@@ -116,7 +116,7 @@ document.addEventListener('keydown', function (event) {
                 break;
             case 23:
                 changeBackground()
-                para.innerText = "If you’d ask me I would tell you being 19 and being 20 has no big differences that I could tell yet.";
+                para.innerText = "If you’d ask me, I would tell you being 19 and being 20 has no big differences that I could tell yet.";
                 break;
             case 24:
                 changeBackground()
@@ -146,14 +146,14 @@ document.addEventListener('keydown', function (event) {
             case 30:
                 changeBackground()
                 document.getElementById("p").style.fontSize = "2em"
-                para.innerText = "I hope this new age brings you more personal growth, dreams that come true, happiness and health.";
+                para.innerText = "I hope this new age brings you personal growth, dreams that come true, happiness and health.";
                 break;
             case 31:
                 para.innerText = "Only wish you the best :)";
                 break;
             case 32:
                 changeBackground()
-                para.innerText = "Well, that’s about it for the good wishes and the birthday celebrations.";
+                para.innerText = "Well, that’s about it for the birthday celebrations and good wishes and.";
                 break;
             case 33:
                 changeBackground()
@@ -253,7 +253,7 @@ document.addEventListener('keydown', function (event) {
                 break;
             case 57:
                 changeBackground()
-                para.innerText = "You like it? It had mixed vegetables, yummm";
+                para.innerText = "You like it? It had mixed vegetables, yummm 😋";
                 break;
             case 58:
                 changeBackground()
