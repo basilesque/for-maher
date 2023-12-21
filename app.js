@@ -153,7 +153,7 @@ document.addEventListener('keydown', function (event) {
                 break;
             case 32:
                 changeBackground()
-                para.innerText = "Well, that’s about it for the birthday celebrations and good wishes and.";
+                para.innerText = "Well, that’s about it for the birthday celebrations and good wishes.";
                 break;
             case 33:
                 changeBackground()
