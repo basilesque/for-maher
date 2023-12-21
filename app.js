@@ -37,27 +37,27 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 4) {
         changeBackground()
-        para.innerText = "Why not make it more interactive?";
+        para.innerText = "Why not make it more interactive,";
     }
     else if (event.key === ' ' && clicks === 5) {
         changeBackground()
-        para.innerText = "More tought out?";
+        para.innerText = "more tought out,";
     }
     else if (event.key === ' ' && clicks === 6) {
         changeBackground()
-        para.innerText = "More sweet and personal?";
+        para.innerText = "more sweet,";
     }
     else if (event.key === ' ' && clicks === 7) {
         changeBackground()
-        para.innerText = "That’s why I coded this lil’ website.";
+        para.innerText = "and more personal?";
     }
     else if (event.key === ' ' && clicks === 8) {
         changeBackground()
-        para.innerText = "(I didn’t send you the link to it at 00:00 because I thought it might fuck up your sleep lol)";
+        para.innerText = "That’s why I coded this lil’ website for you! :)";
     }
     else if (event.key === ' ' && clicks === 9) {
         changeBackground()
-        para.innerText = "But this website has been ready for like a week.";
+        para.innerText = "(Hope I am not fucking up your sleep right now though.)";
     }
     else if (event.key === ' ' && clicks === 10) {
         changeBackground()
@@ -89,7 +89,7 @@ document.addEventListener('keydown', function (event) {
     }
     else if (event.key === ' ' && clicks === 17) {
         changeBackground()
-        para.innerText = "You are fun to be around.";
+        para.innerText = "You are kind.";
     }
     else if (event.key === ' ' && clicks === 18) {
         changeBackground()
