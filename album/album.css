@@ -12,13 +12,10 @@ img {
     box-shadow: 2px 2px 2px rgba(43, 46, 65, 0.50);
 }
 
-body {
-    background-color: #6A675B;
-}
-
+body,
 .card {
+    background-color: #597475;
     border: none;
-    background-color: #6A675B;
 }
 
 img:hover {
