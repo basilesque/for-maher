@@ -3,7 +3,7 @@ const para = document.getElementById("p");
 const link = document.createElement("button");
 link.innerText = "The Album";
 link.addEventListener("click", function () {
-    window.open('https://photos.app.goo.gl/ogbiGLd1yfCKSvVz6', '_blank');
+    window.open('album\album.html', '_blank');
     return false;
 });
 let clicks = 0;

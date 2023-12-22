@@ -28,3 +28,11 @@ img:active {
     transform: scale(0.98);
     cursor: pointer;
 }
+
+.footer {
+    background-color: #20240fb7 !important;
+    font-size: 95% !important;
+    color: #d4caa19e !important;
+    text-shadow: 1px 1px 1px black;
+    font-size: 120%;
+}
