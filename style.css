@@ -3,8 +3,9 @@
     user-select: none;
     font-family: 'Noto Serif', serif;
 }
+
 body {
-    background-image: linear-gradient(to right, #bd3fbbd1, #4378a9d1);
+    background-image: linear-gradient(to right, #bd3fbbd2, #4378a9d1);
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-attachment: fixed !important;
@@ -12,6 +13,7 @@ body {
     text-align: center;
     margin-top: 25%;
 }
+
 p {
     font-size: 2em;
     text-shadow: 1px 1px 1px rgba(237, 216, 236, 0.663);
@@ -20,6 +22,7 @@ p {
     font-weight: 600;
     color: rgba(50, 25, 15, 0.864);
 }
+
 button {
     font-size: 1.4em;
     background-color: rgb(122, 111, 111);
@@ -32,11 +35,13 @@ button {
     color: rgba(207, 192, 192, 0.736);
     text-shadow: 1px 1px 1px rgba(65, 43, 64, 0.663);
 }
+
 button:hover {
     transform: scale(1.05);
     box-shadow: 5px 5px 5px rgb(65, 43, 64);
     cursor: pointer;
 }
+
 button:active {
     transform: scale(0.95);
 }

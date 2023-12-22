@@ -20,7 +20,7 @@ body,
 
 img:hover {
     transform: scale(1.02);
-    box-shadow: 5px 5px 5px rgba(43, 46, 65, 0.50);
+    box-shadow: 5px 5px 5px rgba(43, 46, 65, 0.51);
     cursor: pointer;
 }
 

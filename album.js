@@ -18,7 +18,6 @@ function createElements() {
 
         cardDiv.appendChild(image);
         colDiv.appendChild(cardDiv);
-
         rowDiv.appendChild(colDiv);
     }
 

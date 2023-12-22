@@ -1,4 +1,5 @@
 changeBackground();
+
 const para = document.getElementById("p");
 const link = document.createElement("button");
 link.innerText = "The Album";
