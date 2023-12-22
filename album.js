@@ -34,6 +34,7 @@ function createElements() {
 
 createElements();
 
+
 img1.title = "27th of October 2023, a few days after our break up. i was feeling like shit and i just got off work when i took this photo. i wished that i could send you it at that moment."
 img2.title = "23rd of November 2023, went to uni very early"
 img3.title = "2nd of December 2023"
