@@ -14,7 +14,7 @@ img {
 
 body,
 .card {
-    background-color: #597475;
+    background-color: #344748;
     border: none;
 }
 
@@ -32,6 +32,13 @@ img:active {
 .footer {
     background-color: #20240fb7 !important;
     font-size: 95% !important;
+    color: #d4caa19e !important;
+    text-shadow: 1px 1px 1px black;
+    font-size: 120%;
+}
+
+#heading {
+    background-color: #07152ab4;
     color: #d4caa19e !important;
     text-shadow: 1px 1px 1px black;
     font-size: 120%;
