@@ -19,6 +19,7 @@ function createElements() {
         image.addEventListener("click", function (event) {
             window.open(`photo${i}.html`, '_blank');
         }, false);
+        image.id = `img${i}`
 
         cardDiv.appendChild(image);
         colDiv.appendChild(cardDiv);
@@ -32,4 +33,26 @@ function createElements() {
 };
 
 createElements();
+
+img1.title = "27/10/23, after I got off work"
+img2.title = ""
+img3.title = ""
+img4.title = ""
+img5.title = ""
+img6.title = ""
+img7.title = ""
+img8.title = ""
+img9.title = ""
+img10.title = ""
+img11.title = ""
+img12.title = ""
+img13.title = ""
+img14.title = ""
+img15.title = ""
+img16.title = ""
+img17.title = ""
+img18.title = ""
+img19.title = ""
+img20.title = ""
+
 
