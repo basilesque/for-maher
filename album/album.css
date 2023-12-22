@@ -1,0 +1,32 @@
+* {
+    font-family: 'Oswald', sans-serif !important;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #6A675B;
+}
+
+.card {
+    border: none;
+    background-color: #6A675B;
+}
+
+img:hover {
+    transform: scale(1.02);
+    box-shadow: 5px 5px 5px rgba(43, 46, 65, 0.50);
+    cursor: pointer;
+}
+
+img:active {
+    transform: scale(0.98);
+    cursor: pointer;
+}
