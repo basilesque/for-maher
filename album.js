@@ -15,6 +15,9 @@ function createElements() {
         const image = document.createElement('img');
         image.classList.add('card-img-top');
         image.src = `photos/${i}.jpg`;
+        image.addEventListener("click", function (event) {
+            window.open(`photo${i}.html`, '_blank');
+        }, false);
 
         cardDiv.appendChild(image);
         colDiv.appendChild(cardDiv);
